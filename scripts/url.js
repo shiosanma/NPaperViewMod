@@ -1,0 +1,1 @@
+window.open("https://www.nikkei.com/paper-viewer", '_blank').focus();

@@ -1,0 +1,5 @@
+/* フッターの非表示 */
+.footer {
+    height: 0px !important;
+    z-index: -1 !important;
+}

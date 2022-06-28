@@ -1,0 +1,21 @@
+{
+    "name": "紙面ビューアー・改",
+    "description": "日経新聞紙面ビューアーの機能を拡張する（非公式）",
+    "version": "0.1",
+    "manifest_version": 3,
+    "background":{
+        "service_worker": "event.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.nikkei.com/paper-viewer*"],
+        "css": ["statics/mod.css"],
+        "js":["scripts/shortcuts.js"]
+      }
+    ],
+    "action": {
+        "default_title": "紙面ビューアー・改",
+        "default_popup": "statics/popup.html"
+    },
+    "permissions": ["activeTab", "scripting"]
+  }
