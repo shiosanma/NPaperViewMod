@@ -13,11 +13,11 @@
 ### インストール方法
 1. Google Chromeを起動する
 1. このレポジトリを [ZIPファイルとしてダウンロード](https://github.com/shiosanma/NPaperViewMod/archive/refs/heads/master.zip)する
-1. 解凍すると `NPaperViewMod`というフォルダがでてくるので、好きな場所に移動する
+1. 解凍すると `NPaperViewMod-master`というフォルダがでてくるので、好きな場所に移動する
 1. 拡張機能のページ（`chrome://extensions`）を開く
 1. ブラウザのデベロッパーモードを有効にする
-1. `NPaperViewMod`のフォルダをドラック＆ドロップする
-1. `NPaperViewMod`のフォルダは**「削除しない」でください**
+1. `NPaperViewMod-master`のフォルダをドラック＆ドロップする
+1. `NPaperViewMod-master`のフォルダは**「削除しない」でください**
 
 *Microsoft Edgeとも互換性はありですが、動作確認はしていません*
 
