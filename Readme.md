@@ -17,7 +17,7 @@
 1. 拡張機能のページ（`chrome://extensions`）を開く
 1. ブラウザのデベロッパーモードを有効にする
 1. `NPaperViewMod-master`のフォルダをドラック＆ドロップする
-1. `NPaperViewMod-master`のフォルダは**「削除しない」でください**
+1. `NPaperViewMod-master`のフォルダは **「削除しない」でください**
 
 *Microsoft Edgeとも互換性はありですが、動作確認はしていません*
 
